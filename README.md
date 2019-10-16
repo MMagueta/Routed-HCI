@@ -25,6 +25,8 @@ Sobre vendas de produtos online, apenas 19% das pessoas que responderam o questi
 
 89.1\% dos usuários utilizam várias lojas virtuais para as compras de seus produtos, e do mesmo grupo 50.8\% fazem compras de produtos informalmente, sem uma empresa como intermediária, como grupos de redes sociais, sites de venda de produtos usados e por troca de mensagens. A respeito das lojas virtuais que utilizam, as cinco principais plataformas, em ordem, foram Mercado Livre, Americanas, Amazon, Submarino e Netshoes. Outra informação interessante é a utilização de marketplaces do Facebook e de lojas de importação chinesas tais como AliExpress e GearBest.
 
+![Gráfico 2 - Lojas Virtuais](https://github.com/MMagueta/Routed-HCI/blob/master/lojas.PNG?raw=true)
+
 A respeito de serviços de entrega, 95% dos usuários utilizam o sistema dos Correios e além desse serviço 25% também usam de serviços terceirizados. A maioria das respostas apontam para o acompanhamento de entrega por meio de sites da loja ou nos próprios sites das transportadoras, com média de 65% dos usuários, seguidos por acompanhamento via e-mail e por SMS. Além disso 79,7% dos usuários consideraram os serviços atuais de entrega entre medianos a bons, e entre as reclamações dos serviços estão a falta de velocidade de entrega e a falta de atualizações nas postagens.
 
 ### Entrevista
