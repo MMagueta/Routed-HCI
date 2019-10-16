@@ -61,6 +61,7 @@ Foram observados processos de vendas informais em grupos de redes sociais. Estas
 O primeiro vendedor observado anunciou um produto às 17:45, pontualmente, da sexta-feira, clamando ser o horário de pico e de maior visualização nos grupos. O produto consistia em "*amiibos*" de certo grau de demanda, porém comuns. O preço estava um pouco abaixo da média em que os outros foram vendidos. Dois minutos depois, outros dois usuários da plataforma de vendas do Facebook comentaram barganhando e indagando o frete para os respectivos endereços. Prontamente por uma tabela, o vendedor consultou a faixa de frete considerando aumentar um pouco o lucro com a entrega. As opções de entrega foram anunciadas, envio via PAC/Sedex ou entrega pessoal. A entrega pessoal foi descartada quase que de imediato na negociação por limitantes de distância. Logo em seguida, dos possíveis compradores, ambos começaram a discutir acerca da venda, sobre quem havia direito de compra sobre o item (único), iniciando um leilão. O vendedor escolheu um usuário que apareceu logo em seguida oferecendo um valor ligeiramente maior. Logo em seguida, a negociação ocorreu por chat. Algo interessante a ser mencionado é que, o comprador em questão não aparentou estar apreensivo na compra informal; o vendedor apenas o enviou um código QR code um aplicativo de pagamentos, que foi pago com prontidão, após isso o endereço foi requisitado, o vendedor informou o frete, levando em outro QR code. Segundo o vendedor, o produto seria postado na manhã da segunda em alguma agência dos Correios, e de fato foi, seguido do envio imediato de uma foto do vendedor com o produto ainda na agência para o cliente, acompanhado do código de rastreio. Na quarta o produto foi recebido e validado pelo cliente, seguido de um comentário no anúncio agradecendo e avaliando o vendedor. É perceptível que existe um grau de confiança entre os vendedores. Em uma entrevista com o vendedor, foi levantado um evento em que o cliente tentou burlar o pagamento alegando que o produto não havia sido entregue, com o objetivo de causar más interpretações ao vendedor, manchando a sua reputação, porém a comunidade de compra e venda levantou apoio ao vendedor, comentando todas as situações de "honestidade" apresentadas até então.
 
 #### Comprador
+Outra perspectiva necessária para análise é a do papel de compradores. Para isso, um comprador regular, colecionador de jogos, concedeu permissão para comentar e ser observado em um processo de compra informal online. Por volta das 17:10h de uma quinta-feira, o comprador iniciou um processo de análise dos anúncios, avaliando com diferentes sites de apoio com preços diversificados e, em sua grande maioria, estes anúncios são firmados por meios de pagamento informais, mesmo em plataformas que proporcionam mecanismos de garantia de compra. Após a análise dos itens para venda, um foi escolhido, uma cópia do jogo "Fire Emblem Radiant Dawn" foi a escolhida, é um item caro e de certa raridade e preciosidade para colecionadores, desta forma, a aparência do anúncio indicava todo um processo cirúrgico de cuidado com o produto, bem como a credibilidade do comprador, descrita por um mural por outros usuários do grupo. Havia um outro anúncio do mesmo item, porém o CD estava exposto sobre a capa em piso; ao ver o anúncio, o comprador em questão começou a resmungar, descartando-o completamente. Em seguida da meticulosa análise, o vendedor foi escolhido e o envio foi combinado nos mesmos moldes do que já foi descrito: o CEP foi enviado para confirmação da taxa de frete, assumindo uma margem de erro acima do valor estipulado para suprir custos de envio, como empacotamento. O comprador efetuou o pagamento por QR, confiando totalmente no vendedor. O produto foi enviado por carona de um amigo de um dos outro usuário do grupo, que faz entregas frequentes, segundo o comprador. O processo foi acompanhado por GPS e atualizações constantes do produto por parte do entregador. O produto chegou no mesmo dia pela noite pelo entregador, que cobrou uma taxa pelo serviço prestado. Dentro do carro era perceptível um grande volume de mercadorias, sinalizando que mais entregas seriam feitas. Considerando quantitativamente, provavelmente a margem de lucro era alta.
 
 ## Learn
 ### Competitive Survey - Avaliação Heurística
@@ -80,26 +81,19 @@ recuperarem de erros;
 #### Plataforma avaliada: Correios
 
  - Tempo de carregamento; [1]
- - Dubious permissions; [2]
- - Inconsistent inputs at the “login screen”; [10]
- - Fields with no detailed description (phone field, for instance); [10]
- - No feedback for actions or whatsoever (login example); [9]
- - Call system of token retrieval with non existent number; [9]
- - Home screen empty with just a few options non consistent to the app
-   purpose; [8]
- - Lack of consistency with the other apps from the same company, split
-   into several independent (and redundant) modules; [4]
- - Options linking other series of apps (Correios Celular, for
-   instance); [4]
- - Duplicate options in the same screen; [3]
- - Timeline with inconsistent text (hard to note important features);
-   [6]
- - Incorrectly named features and wrong icons (Senhas de atendimento is
-   about time spent in the agency); [6,2]
- - Options “broken”, dependant of other options (Senhas de atendimento);
-   [7]
- - App stops running when a search of address is made; [9]
- - Useless inputs, such as addressee and mailer (in the address form).
-   [2]
+ - Permissões duvidosas; [2]
+ - Dados de entrada inconsistentes na tela de login; [10]
+ - Campos sem descrição detalhada do formato de dados, como telefone; [10]
+ - Falta de feedback para as ações tomadas; [9]
+ - Sistema de chamadas para reestabelecimento de login com número inexistente; [9]
+ - Tela de login vazia, com poucas opções consistentes ao propósito; [8]
+ - Falta de consistência entre os aplicativos da mesma companhia, que por sua vez estão divididos em diversos módulos independentes e redundantes; [4]
+ - Opções que linkam estes aplicativos mencionados; [4]
+ - Opções duplicadas na mesma tela, ou dispostas em menus de fácil acesso desnecessariamente; [3]
+ - Timeline de ratreio de pacotes com texto inconsistente e de difícil identificação dos pontos importantes; [6]
+ - Features com nomes incorretos ou inteligíveis e com ícones duvidosos (Senhas de atendimento é um módulo de mensura do tempo gasto em uma agência X); [6,2]
+ - Opções "quebradas", dependentes de outras opções (Senhas de atendimento); [7]
+ - Aplicativo para de funcionar se uma pesquisa de endereço é efetuada; [9]
+ - Valores de entrada inúteis, como nome do remetente e destinatário para verificação do preço de envio em formulário de endereço. [2]
 #### Severidade
 
