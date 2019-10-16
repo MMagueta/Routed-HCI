@@ -7,6 +7,48 @@ A seguir serão discutidos a proposta do aplicativo *Routed*, as metodologias ap
 ## Proposta
 O aplicativo de alta fidelidade proposto, *Routed*, possui como ideia central  ser uma plataforma para gerenciamento e atualização de entregas, facilitando a organização e visualização dos produtos enviados ou a serem recebidos pelo usuário. O aplicativo tem ideia do usuário entrar com contas das principais lojas e os pedidos postados e atualizados serem filtrados para um mesmo local de fácil acesso e organização. 
 # Metodologias
+
+## Ask
+### Questionário
+
+Foi realizado um questionário básico contendo 14 perguntas que abrangem desde idade e localidade do usuário, até sua forma de comprar produtos online, indagando quais lojas utiliza com mais frequência, se realiza vendas ou participa de grupos informais de venda, quais os serviços de entrega mais utilizam, quais os problemas relatados nos mesmos e como costumam acompanhar o pedido/entrega, obtendo 64 respostas após a divulgação.
+
+Foram obtidas respostas de pessoas de 10 cidades e 3 estados diferentes (conforme ilustrado no gráfico de Cidades abaixo), com idades entre 18 e 33 anos. Entre as pessoas que responderam o questionário, 57% moram próximas ao centro de suas cidades, o que pode ser um incentivo maior para realizar compras online, visto que, geralmente, pessoas que moram próximas ao centro possuem facilidades como retirar as compras na loja física sem muitas dificuldades, o que por vezes torna o frete mais barato e a entrega mais rápida.
+
+![Gráfico 1 - Cidades](https://github.com/MMagueta/Routed-HCI/blob/master/grafico_cidades.PNG?raw=true)
+
+Entre as respostas obtidas, 92% das pessoas costumam comprar produtos online, sendo que 85\% delas possuem idades entre 20 e 30 anos, mais especificamente, 96% das pessoas com idades entre 20 e 30 anos costumam comprar produtos online. Desta forma, podemos afirmar com tranquilidade que pessoas com essa faixa etária são potenciais usuários do aplicativo em questão.
+
+Outra informação importante acerca das pessoas que costumam comprar produtos é que 68% dessas pessoas costumam comprar produtos com uma frequência 3 ou mais, numa escala de 1 a 5 de frequência.
+
+Sobre vendas de produtos online, apenas 19% das pessoas que responderam o questionário possuem essa prática, sendo que 91,7% delas costumam entregar os produtos pessoalmente ou por meio de transportadoras. Dessa forma, podemos notar que, apesar de existir um publico alvo, a quantidade de usuários que usarão o aplicativo a fim de rastrear produtos vendidos por eles será bem menor quando comparado ao número de usuários que o usarão para rastrear produtos comprados.
+
+89.1\% dos usuários utilizam várias lojas virtuais para as compras de seus produtos, e do mesmo grupo 50.8\% fazem compras de produtos informalmente, sem uma empresa como intermediária, como grupos de redes sociais, sites de venda de produtos usados e por troca de mensagens. A respeito das lojas virtuais que utilizam, as cinco principais plataformas, em ordem, foram Mercado Livre, Americanas, Amazon, Submarino e Netshoes. Outra informação interessante é a utilização de marketplaces do Facebook e de lojas de importação chinesas tais como AliExpress e GearBest.
+
+A respeito de serviços de entrega, 95% dos usuários utilizam o sistema dos Correios e além desse serviço 25% também usam de serviços terceirizados. A maioria das respostas apontam para o acompanhamento de entrega por meio de sites da loja ou nos próprios sites das transportadoras, com média de 65% dos usuários, seguidos por acompanhamento via e-mail e por SMS. Além disso 79,7% dos usuários consideraram os serviços atuais de entrega entre medianos a bons, e entre as reclamações dos serviços estão a falta de velocidade de entrega e a falta de atualizações nas postagens.
+
+### Entrevista
+
+Foram feitas entrevistas com 10 pessoas entre 20 e 56 anos de idade. Durante as entrevistas, os entrevistados foram perguntados sobre hábitos de compra e rastreio de pedidos online, além disso, foram feitas também algumas perguntas em relação aos aplicativos mais usados pela pessoa.
+
+Das pessoas entrevistadas, todas possuem o hábito de comprar produtos online, além disso, numa escala de 1 a 5 de frequência, 70% das pessoas compram produtos online com uma frequência maior ou igual a 3, podendo ser classificados como compradoras frequentes.
+
+As lojas mais utilizadas pelos entrevistados nas compras online são Amazon, Mercado Livre e Kabum, sendo prática comum o rastreio dos pedidos por meio do site da transportadora/correios, utilizando o código de rastreio ou link direto para a transportadora que geralmente são enviados por e-mail.
+
+Também foi perguntado aos entrevistados sobre os aplicativos que eles mais utilizam, além das redes sociais, assim como os maiores problemas e as melhores virtudes desses aplicativos.
+
+Os aplicativos mais utilizados pelos entrevistados são aplicativos de banco em geral e o YouTube.
+
+Em relação aos problemas de usabilidade encontrados de modo geral pelos entrevistados, parte deles estão relacionados à disposição das informações no aplicativo assim como a navegação pelo mesmo, reforçando a importância de se desenvolver uma interface clean e intuitiva, de modo que não haja informações demais na tela ao passo que as informações importantes não sejam de difícil acesso.
+
+Em contrapartida, a maioria dos elogios feitos pelos entrevistados a alguns aplicativos estão relacionados à facilidade de acesso as informações e a navegação pelo aplicativo, além da possibilidade de personalização do aplicativo, em alguns casos.
+
+Em relação às redes sociais, por sua vez, a maioria das reclamações estão relacionadas à informações desinteressantes na tela, como notificações e propagandas irrelevantes.
+
+Por fim, a imagem abaixo foi mostrada aos entrevistados e os mesmos foram perguntados sobre qual das telas da imagem é a mais bonita e qual é a melhor para visualizar informações. A tela escolhida como a mais bonita foi a tela de letra 'A', ao passo que a tela escolhida como a melhor para a visualização de informações foi a tela de letra 'C'. 
+
+![Telas](https://github.com/MMagueta/Routed-HCI/blob/master/telas.PNG?raw=true)
+
 ## Look
 ### Shadowing
 
