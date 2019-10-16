@@ -5,7 +5,7 @@ Este relatório corresponde à implementação de uma pesquisa de usuário para 
 
 A seguir serão discutidos a proposta do aplicativo *Routed*, as metodologias aplicadas pelos integrantes do grupo, sendo estas a realização de um questionário geral para a idealização do consumidor, seguido de entrevistas específicas com foco maior nas concepções do aplicativo e questões de usabilidade. A estratégia de *shadowing* foi utilizada para ter uma base de comportamento dos usuários vendedores e que utilizarão o sistema de entrega para verificar os produtos enviados, observando perfis de rede social em grupos de troca e venda de produtos. Após a reunir informações suficientes sobre os usuários, uma pesquisa sobre outras tecnologias e aplicativos parecidos foi feita, buscando observar os recursos do mercado e tendências, todas essas informações servirão de base para a construção do aplicativo.
 ## Proposta
-O aplicativo de alta fidelidade proposto, *Routed*, possui como ideia central  ser uma plataforma para gerenciamento e atualização de entregas, bem como facilitadora de serviços de entrega com usuários comuns e transportadoras, facilitando a organização e visualização dos produtos enviados ou a serem recebidos pelo usuário final. O aplicativo tem ideia do usuário entrar com contas das principais lojas e os pedidos postados e atualizados serem filtrados para um mesmo local de fácil acesso e organização, ou mesmo realizando um processo informal de compra/venda.
+O aplicativo de alta fidelidade proposto, *Routed*, possui como ideia central  ser uma plataforma para gerenciamento e atualização de entregas, bem como facilitadora de serviços de entrega com usuários comuns e transportadoras, proporcionando uma organização e visualização dos produtos enviados ou a serem recebidos pelo usuário final. O aplicativo tem ideia do usuário entrar com contas das principais lojas e os pedidos postados e atualizados serem filtrados para um mesmo local de fácil acesso e organização, ou mesmo realizando um processo informal de compra/venda.
 # Metodologias
 
 ## Ask
@@ -54,7 +54,9 @@ Por fim, a imagem abaixo foi mostrada aos entrevistados e os mesmos foram pergun
 ## Look
 ### Shadowing
 
-Foram observados processos de vendas informais em grupos de redes sociais. Estas vendas correspondem à grande parte do ideal creditado ao protótipo em questão, portanto entender o processo de interação dos indivíduos em um ciclo de exposição, negociação, venda, monitoração e por fim, validação. Para a análise experimental, dois vendedores foram analisados em um processo de venda, além disso, um comprador em contraponto.
+Foram observados processos de vendas informais em grupos de redes sociais. Estas vendas correspondem à grande parte do ideal creditado ao protótipo em questão, portanto entender o processo de interação dos indivíduos em um ciclo de exposição, negociação, venda, monitoração e por fim, validação. Para a análise experimental, um vendedor foi analisado em um processo de venda e um comprador em contraponto.
+
+![Processo de compra/venda](https://github.com/MMagueta/Routed-HCI/blob/master/processo.png?raw=true)
 
 #### Vendedor
 
