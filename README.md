@@ -103,7 +103,7 @@ recuperarem de erros;
 Para o desenvolvimento do primeiro protótipo, de baixa fidelidade, a feramenta Balsamiq foi utilizada. Foram produzidas vinte telas com as principais funcionalidades do aplicativo, o link disponibilizado abaixo contém a plataforma para teste de usuário, sendo aberta a criação de notas e comentários a respeito do comportamento das páginas.
 
 ### Link Lo-Fi Prototype
-https://balsamiq.cloud/sv9gy35/psykzja/rC221
+[Link-Lo-Fi](https://bit.ly/2q9bYyg)
 
 
 
