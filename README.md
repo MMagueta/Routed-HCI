@@ -97,5 +97,14 @@ recuperarem de erros;
  - Opções "quebradas", dependentes de outras opções (Senhas de atendimento); [7]
  - Aplicativo para de funcionar se uma pesquisa de endereço é efetuada; [9]
  - Valores de entrada inúteis, como nome do remetente e destinatário para verificação do preço de envio em formulário de endereço. [2]
-#### Severidade
+
+# Low Fidelity Prototype
+
+Para o desenvolvimento do primeiro protótipo, de baixa fidelidade, a feramenta Balsamiq foi utilizada. Foram produzidas vinte telas com as principais funcionalidades do aplicativo, o link disponibilizado abaixo contém a plataforma para teste de usuário, sendo aberta a criação de notas e comentários a respeito do comportamento das páginas.
+
+### Link Lo-Fi Prototype
+https://balsamiq.cloud/sv9gy35/psykzja/rC221
+
+
+
 
