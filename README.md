@@ -100,7 +100,7 @@ recuperarem de erros;
 
 # Low Fidelity Prototype
 
-Para o desenvolvimento do primeiro protótipo, de baixa fidelidade, a feramenta Balsamiq foi utilizada. Foram produzidas vinte telas com as principais funcionalidades do aplicativo, o link disponibilizado [aqui](https://balsamiq.cloud/sv9gy35/psykzja/rC221?f=N4IgUiBcCMA0IDkpxAYWfAMhkAhKADPALI4BaOA0lANoC6AvkA%3D%3D) contém a plataforma para teste de usuário, sendo aberta a criação de notas e comentários a respeito do comportamento das páginas.
+Para o desenvolvimento do primeiro protótipo, de baixa fidelidade, a feramenta Balsamiq foi utilizada. Foram produzidas vinte telas com as principais funcionalidades do aplicativo, o link disponibilizado [aqui](https://balsamiq.cloud/sv9gy35/psykzja/rEB66?f=N4IgUiBcCMA0IDkpxAYWfAMhkAhKADPALI4BaOA0lANoC6AvkA%3D%3D) contém a plataforma para teste de usuário, sendo aberta a criação de notas e comentários a respeito do comportamento das páginas.
 
 
 
