@@ -102,6 +102,20 @@ recuperarem de erros;
 
 Para o desenvolvimento do primeiro protótipo, de baixa fidelidade, a feramenta Balsamiq foi utilizada. Foram produzidas vinte telas com as principais funcionalidades do aplicativo, o link disponibilizado [aqui](https://balsamiq.cloud/sv9gy35/psykzja/r37E7?f=N4IgUiBcAMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D) contém a plataforma para teste de usuário, sendo aberta a criação de notas e comentários a respeito do comportamento das páginas.
 
+# Design Patterns Escolhidos
+ - [Input Prompt](http://ui-patterns.com/patterns/InputPrompt)
+ - [Settings](http://ui-patterns.com/patterns/settings)
+ - [Steps Left](http://ui-patterns.com/patterns/StepsLeft)
+ - [Notifications](http://ui-patterns.com/patterns/notifications)
+ - [Modal](http://ui-patterns.com/patterns/modal-windows)
+ - [Pull to refresh](http://ui-patterns.com/patterns/pull-to-refresh)
+ - [Alternating Row Colors](http://ui-patterns.com/patterns/AlternatingRowColors)
+ - [Playthrough](http://ui-patterns.com/patterns/playthrough)
+ - [Coachmarks](http://ui-patterns.com/patterns/coachmarks)
+ - [Account Registration](http://ui-patterns.com/patterns/AccountRegistration)
+ - [Reaction](http://ui-patterns.com/patterns/reaction)
+
+
 
 
 
