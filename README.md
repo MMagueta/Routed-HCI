@@ -114,6 +114,10 @@ Para o desenvolvimento do primeiro protótipo, de baixa fidelidade, a feramenta 
  - [Coachmarks](http://ui-patterns.com/patterns/coachmarks)
  - [Account Registration](http://ui-patterns.com/patterns/AccountRegistration)
  - [Reaction](http://ui-patterns.com/patterns/reaction)
+ 
+ # High Fidelity Prototype
+ 
+ Para o desenvolvimento do segundo protótipo, tendo este a ser um protótipo voltado ao usuário final de alta fidelidade e simulando um ambiente Android/IOS. A plataforma de desenvolvimento utilizada foi o Adobe XD, ferramenta de criação de layouts avançados para interfaces. As telas a seguir representam o layout principal e esquema de cores do aplicativo construido, assim como sua relação de páginas demonstrada abaixo.
 
 
 
