@@ -128,11 +128,12 @@ Para o desenvolvimento do primeiro protótipo, de baixa fidelidade, a feramenta 
  # Teste com outros desenvolvedores
  
  Após a finalização da primeira versão final do aplicativo, um teste com outros desenvolvedores foi feito para levantar uma avaliação heurística destacando os principais problemas de usabilidade do mesmo. O grupo em questão testou o aplicativo por um período de duas horas sem o apoio dos criadores, para total liberdade de uso. Os seguintes problemas de usabilidade são detacados a seguir:
-- Pedidos e entregas indo para a mesma página
-- Nova entrega como campo de busca e não de visualização
-- Não existe opção de cancelar a entrega
-- Página de deletar pedido com link escrito "Arquivar"
-- Logout do usuário não estabelecido
+- Pedidos e entregas indo para a mesma página (1. Visibility of system status)
+- Nova entrega como campo de busca e não de visualização (1. Visibility of system status)
+- Não existe opção de cancelar a entrega (3. User control and freedom)
+- Página de deletar pedido com link escrito "Arquivar" (4. Consistency and standards)
+- Logout do usuário não estabelecido (5. Error prevention)
+- Faltas de filtros na pesquisa (7. Flexibility and efficiency of use)
 Estes problemas de usabilidade foram corrigidos em uma nova versão que foi disponibilizada para um teste com um usuário final do aplicativo, para um segundo teste de usabilidade agora com a perspectiva dos criadores com o consumidor final.
 
 # Teste com usuário final
