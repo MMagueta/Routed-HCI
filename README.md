@@ -135,6 +135,8 @@ Para o desenvolvimento do primeiro protótipo, de baixa fidelidade, a feramenta 
 - Logout do usuário não estabelecido
 Estes problemas de usabilidade foram corrigidos em uma nova versão que foi disponibilizada para um teste com um usuário final do aplicativo, para um segundo teste de usabilidade agora com a perspectiva dos criadores com o consumidor final.
 
+# Teste com usuário final
+
 
 
 
