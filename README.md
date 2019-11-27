@@ -137,7 +137,9 @@ Estes problemas de usabilidade foram corrigidos em uma nova versão que foi disp
 
 # Teste com usuário final
 
-
-
-
-
+ O protótipo sofreu pequenas alterações após um teste centrado em um usuário presente no escopo de pesquisa. O processo de teste foi realizado com o suporte de uma versão da aplicação no hardware do usuário, com uma gravação do uso da tela. Uma lista de tarefas foi submetida.
+- Adicionar um produto comprado;
+- Avaliar uma entrega;
+- Arquivar uma entrega;
+- Solicitar uma entrega;
+- Atualizar o status de uma entrega.
