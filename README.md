@@ -137,9 +137,12 @@ Estes problemas de usabilidade foram corrigidos em uma nova versão que foi disp
 
 # Teste com usuário final
 
- O protótipo sofreu pequenas alterações após um teste centrado em um usuário presente no escopo de pesquisa. O processo de teste foi realizado com o suporte de uma versão da aplicação no hardware do usuário, com uma gravação do uso da tela. Uma lista de tarefas foi submetida.
+ O protótipo sofreu pequenas alterações após um teste centrado em um usuário presente no escopo de pesquisa. O processo de teste foi realizado com o suporte de uma versão do protótipo em nuvem, com uma gravação do uso da tela. Uma lista de tarefas foi submetida.
 - Adicionar um produto comprado;
 - Avaliar uma entrega;
 - Arquivar uma entrega;
 - Solicitar uma entrega;
 - Atualizar o status de uma entrega.
+Alguns problemas foram levantados, dentre estes, houve uma confusão no fluxo de entregas. Para solucionar o problema, uma nova tela intermediária foi criada. Outro problema percebido pelo comportamento de clique na tela, justificando uma nomeação despercebida nas telas de envio.
+
+[Protótipo Final](https://xd.adobe.com/view/471f91ab-83a0-4bea-5928-367ec3375265-312e/)
