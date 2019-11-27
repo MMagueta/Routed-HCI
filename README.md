@@ -118,6 +118,14 @@ Para o desenvolvimento do primeiro protótipo, de baixa fidelidade, a feramenta 
  # High Fidelity Prototype
  
  Para o desenvolvimento do segundo protótipo, tendo este a ser um protótipo voltado ao usuário final de alta fidelidade e simulando um ambiente Android/IOS. A plataforma de desenvolvimento utilizada foi o Adobe XD, ferramenta de criação de layouts avançados para interfaces. As telas a seguir representam o layout principal e esquema de cores do aplicativo construido, assim como sua relação de páginas demonstrada abaixo.
+ 
+ ![Relação de Telas](https://github.com/MMagueta/Routed-HCI/blob/master/Routed_V2.png?raw=true)
+ ![Página Principal](https://github.com/MMagueta/Routed-HCI/blob/master/tela01.png?raw=true)
+ ![Página de Entrega](https://github.com/MMagueta/Routed-HCI/blob/master/tela02.png?raw=true)
+ ![Página de Pedido](https://github.com/MMagueta/Routed-HCI/blob/master/tela03.png?raw=true)
+ ![Páginade Nova Entrega](https://github.com/MMagueta/Routed-HCI/blob/master/tela04.png?raw=true)
+ 
+ 
 
 
 
