@@ -143,6 +143,7 @@ Estes problemas de usabilidade foram corrigidos em uma nova versão que foi disp
 - Arquivar uma entrega;
 - Solicitar uma entrega;
 - Atualizar o status de uma entrega.
+
 Alguns problemas foram levantados, dentre estes, houve uma confusão no fluxo de entregas. Para solucionar o problema, uma nova tela intermediária foi criada. Outro problema percebido pelo comportamento de clique na tela, justificando uma nomeação despercebida nas telas de envio.
 
 [Protótipo Final](https://xd.adobe.com/view/471f91ab-83a0-4bea-5928-367ec3375265-312e/)
