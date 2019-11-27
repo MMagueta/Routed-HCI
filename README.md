@@ -117,7 +117,7 @@ Para o desenvolvimento do primeiro protótipo, de baixa fidelidade, a feramenta 
  
  # High Fidelity Prototype
  
- Para o desenvolvimento do segundo protótipo, tendo este a ser um protótipo voltado ao usuário final de alta fidelidade e simulando um ambiente Android/IOS. A plataforma de desenvolvimento utilizada foi o Adobe XD, ferramenta de criação de layouts avançados para interfaces. As telas a seguir representam o layout principal e esquema de cores do aplicativo construido, assim como sua relação de páginas demonstrada abaixo.
+ Para o desenvolvimento do segundo protótipo, tendo este a ser um protótipo voltado ao usuário final de alta fidelidade e simulando um ambiente Android/IOS. A plataforma de desenvolvimento utilizada foi o Adobe XD, ferramenta de criação de layouts avançados para interfaces. As telas a seguir representam o layout principal e esquema de cores do aplicativo construido, assim como sua relação de páginas demonstrada abaixo, as telas demonstradas de cor verde foram as desenvolvidas no software de criação, enquanto as em vermelho foram desconsideradas no processo.
  
  ![Relação de Telas](https://github.com/MMagueta/Routed-HCI/blob/master/Routed_V2.png?raw=true)
  ![Página Principal](https://github.com/MMagueta/Routed-HCI/blob/master/tela01.png?raw=true)
@@ -125,7 +125,15 @@ Para o desenvolvimento do primeiro protótipo, de baixa fidelidade, a feramenta 
  ![Página de Pedido](https://github.com/MMagueta/Routed-HCI/blob/master/tela03.png?raw=true)
  ![Páginade Nova Entrega](https://github.com/MMagueta/Routed-HCI/blob/master/tela04.png?raw=true)
  
+ # Teste com outros desenvolvedores
  
+ Após a finalização da primeira versão final do aplicativo, um teste com outros desenvolvedores foi feito para levantar uma avaliação heurística destacando os principais problemas de usabilidade do mesmo. O grupo em questão testou o aplicativo por um período de duas horas sem o apoio dos criadores, para total liberdade de uso. Os seguintes problemas de usabilidade são detacados a seguir:
+- Pedidos e entregas indo para a mesma página
+- Nova entrega como campo de busca e não de visualização
+- Não existe opção de cancelar a entrega
+- Página de deletar pedido com link escrito "Arquivar"
+- Logout do usuário não estabelecido
+Estes problemas de usabilidade foram corrigidos em uma nova versão que foi disponibilizada para um teste com um usuário final do aplicativo, para um segundo teste de usabilidade agora com a perspectiva dos criadores com o consumidor final.
 
 
 
