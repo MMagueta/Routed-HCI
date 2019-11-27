@@ -133,7 +133,7 @@ Para o desenvolvimento do primeiro protótipo, de baixa fidelidade, a feramenta 
 - Não existe opção de cancelar a entrega (3. User control and freedom)
 - Página de deletar pedido com link escrito "Arquivar" (4. Consistency and standards)
 - Logout do usuário não estabelecido (5. Error prevention)
-- Faltas de filtros na pesquisa (7. Flexibility and efficiency of use)
+- Falta de filtros na pesquisa (7. Flexibility and efficiency of use)
 
 Estes problemas de usabilidade foram corrigidos em uma nova versão que foi disponibilizada para um teste com um usuário final do aplicativo, para um segundo teste de usabilidade agora com a perspectiva dos criadores com o consumidor final.
 
